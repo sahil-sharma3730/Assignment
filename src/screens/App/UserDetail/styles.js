@@ -20,7 +20,9 @@ const styles = StyleSheet.create({
     fontSize: 14,
     fontWeight: '600',
   },
-  authorText: {fontSize: 12},
+  authorText: {
+    fontSize: 12,
+  },
   gridStyle: {
     alignItems: 'center',
     margin: 8,
